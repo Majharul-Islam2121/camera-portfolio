@@ -112,3 +112,24 @@ line-height: 143%;
     margin: 150px 30px 0px 20px;
     display: flex;
 }
+.feture{margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+.product{padding: 20px;
+    margin-top: -80px;
+}
+.feture-img{
+    width: 300px;
+    height: 200px;
+}
+.foot{padding: 50px;
+    margin-top: 100px;
+    background: #0A0826;
+    width: 1150px;
+height: 160px;
+color: white;
+text-align: center;
+}
